@@ -18,8 +18,8 @@ if not GITHUB_TOKEN:
 
 
 # Define the repository details
-OWNER = "tensorflow"
-REPO = "tensorflow"
+OWNER = "signalapp"
+REPO = "Signal-Android"
 print("token: ", GITHUB_TOKEN)
 # exit()
 
